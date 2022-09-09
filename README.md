@@ -1,0 +1,4 @@
+# Phone_Dial-up_Analysis_By_Fourier_Transformation
+Seeing many novels have plots about using sound frequency to recognize the telephone number, our group is interested in making a phone number detector. Due to the fact that different keys of the telephone have different pitches and corresponding frequencies when pressed, we can use the Fourier transform to recognize specific numbers by frequency. In this report, we will first give the background knowledge of sound detection and our design ideas. Then, we will further explain our methods and code implementation. Finally, we will give some suggestions for practical applications.
+the pdf file is the essay for this project. 
+And the zip file contains the codes in Matlab and the final app that can be used to demo directly. (it is easy to display by everyone）
